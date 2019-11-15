@@ -1,4 +1,6 @@
-## Netwotk and Storage
+## Network and Storage
+
+## Network
 
 ###  Inside the box : SMP&NUMA
 
@@ -11,4 +13,12 @@ Network stack
 ### HPC: Infiniband
 
 mpi is a upper layer protocols
+
+### Ethernet vs IB
+
+### Other useful protocol
+
+## Storage
+
+
 
